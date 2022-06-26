@@ -1,0 +1,3 @@
+if game.PlaceID == "4520749081" then
+  loadstring(game:HttpGet("INSERT LINK"))()
+end
